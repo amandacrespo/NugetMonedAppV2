@@ -1,0 +1,13 @@
+﻿using NugetMonedAppV2.Models;
+
+namespace ApiMonedAppV2.DTOs
+{
+    public class ActualizarCuentaDTO
+    {
+        public int IdCuenta { get; set; }
+        public string NombreCuenta { get; set; }
+        public string Descripcion { get; set; }
+        public string Moneda { get; set; }
+        public List<MiembroDTO> Miembros { get; set; }
+    }
+}
