@@ -1,6 +1,6 @@
 ﻿using NugetMonedAppV2.Models;
 
-namespace ApiMonedAppV2.DTOs
+namespace NugetMonedAppV2.DTOs
 {
     public class ActualizarCuentaDTO
     {
