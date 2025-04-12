@@ -9,7 +9,7 @@
     <Description>Nuget con todos los models necesarios para el funcionamiento de MonedApp</Description>
     <PackageIcon>MonedApp6-dark.png</PackageIcon>
     <PackageTags>MonedApp; Acl; amandacrespo</PackageTags>
-    <Version>5.0.2</Version>
+    <Version>6.0.2</Version>
   </PropertyGroup>
 
   <ItemGroup>

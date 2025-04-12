@@ -1,4 +1,4 @@
-﻿namespace NugetMonedAppV2.Models
+﻿namespace NugetMonedAppV2.DTOs
 {
     public class CuentaNuevaDTO
     {

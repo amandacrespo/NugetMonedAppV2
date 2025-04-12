@@ -1,6 +1,6 @@
-﻿namespace NugetMonedAppV2.Models
+﻿namespace NugetMonedAppV2.DTOs
 {
-    public class CategoriaConCuenta
+    public class CategoriaConCuentaDTO
     {
         public int? IdCategoria { get; set; }
         public string Nombre { get; set; }
