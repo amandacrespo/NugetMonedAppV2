@@ -1,6 +1,4 @@
-﻿using NugetMonedAppV2.Models;
-
-namespace NugetMonedAppV2.DTOs
+﻿namespace NugetMonedAppV2.DTOs
 {
     public class CuentaDTO
     {
